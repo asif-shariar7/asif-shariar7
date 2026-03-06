@@ -16,6 +16,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asif-shariar&style=flat-square&color=5bffd0&label=Profile+views"/>
+</p>
 
 
 ### About Me
