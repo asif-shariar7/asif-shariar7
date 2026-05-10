@@ -1,6 +1,6 @@
 # Hi there, I'm Asif Shariar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%232563EB&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Web+Developer;Aspiring+Data+Scientist)](https://github.com/DenverCoder1/readme-typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%232563EB&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Web+Developer;Aspiring+Data+Scientist)
 
 <br>
 
