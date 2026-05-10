@@ -4,7 +4,7 @@
 
 <br>
 
-[![asif-shariar](https://komarev.com/ghpvc/?username=asif-shariar&label=Profile%20views&color=0047AB&style=plastic)](https://github.com/asif-shariar)
+[![asif-shariar](https://komarev.com/ghpvc/?username=asif-shariar&label=Profile%20views&color=0047AB&style=plastic)](https://github.com/asif-shariar7)
 
 
 ## <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px"> About Me</p>
